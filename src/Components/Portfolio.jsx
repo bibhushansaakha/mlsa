@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/ku.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Drone Shot of Kathmandu University";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ARestro",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Revolutionizing dining with augmented reality (AR), by offering a seamless experience to view, order, and pay for food through a single mobile app, eliminating traditional hassles and enhancing efficiency.",
+    url: "https://saakha.framer.website/projects/arestro",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Your Health",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Merging technology with health records, providing a secure platform to store and manage personal health data, revolutionizing digital reports and improving communication between patients and doctors.",
+    url: "https://saakha.framer.website/projects/your-health",
   },
   {
-    title: "My Resume Site",
+    title: "Vāc",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "AI-driven mobile app revolutionizing E-sports commentary by generating real-time insights.",
+    url: "https://saakha.framer.website/projects/vac",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Mitra",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Enhancing student efficiency with features like 'NotePad', 'Pomodoro Timer', and 'To-do List', replacing traditional time management methods and minimizing effort.",
+    url: "https://saakha.framer.website/projects/mitra",
   },
 ];
 
